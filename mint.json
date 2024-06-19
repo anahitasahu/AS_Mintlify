@@ -1,4 +1,4 @@
-mintlify dev
+
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Anahita is changing things",
@@ -10,7 +10,7 @@ mintlify dev
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
-    "dark": "#0D9373",
+    "dark": "#0D9376",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
